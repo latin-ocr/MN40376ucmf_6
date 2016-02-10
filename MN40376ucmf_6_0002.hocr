@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN40376ucmf_6_0002.png"; bbox 0 0 2376 3360; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 737 382 1181 492">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 737 382 1181 492">
+     <span class='ocr_line' id='line_1_1' title="bbox 737 382 1181 492; baseline -0.011 0"><span class='ocrx_word' id='word_1_1' title='bbox 737 382 1181 492; x_wconf 84' lang='lat' dir='ltr'>MICROFILM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 363 808 1169 1142">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 363 808 1169 1142">
+     <span class='ocr_line' id='line_1_2' title="bbox 363 808 1151 925; baseline -0.011 0"><span class='ocrx_word' id='word_1_2' title='bbox 363 817 366 823; x_wconf 84' lang='lat'>·</span> <span class='ocrx_word' id='word_1_3' title='bbox 430 812 902 925; x_wconf 72' lang='lat' dir='ltr'>UNIVERSITY</span> <span class='ocrx_word' id='word_1_4' title='bbox 926 810 1021 919; x_wconf 80' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_5' title='bbox 1047 808 1151 917; x_wconf 85' lang='lat' dir='ltr'>CH</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 665 997 1169 1142; baseline -0.016 -32"><span class='ocrx_word' id='word_1_6' title='bbox 665 1120 669 1142; x_wconf 58' lang='lat'><em>‚</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 749 997 1169 1127; x_wconf 70' lang='lat' dir='ltr'>CHICAGO,1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 476 1612 1131 1725">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 476 1612 1131 1725">
+     <span class='ocr_line' id='line_1_4' title="bbox 476 1612 1131 1725; baseline -0.012 0"><span class='ocrx_word' id='word_1_8' title='bbox 476 1616 816 1725; x_wconf 82' lang='lat' dir='ltr'>HISTORY</span> <span class='ocrx_word' id='word_1_9' title='bbox 840 1613 935 1722; x_wconf 85' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_10' title='bbox 959 1612 1131 1719; x_wconf 85' lang='lat' dir='ltr'><strong>RELI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 202 2120 1188 2351">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 202 2120 1188 2351">
+     <span class='ocr_line' id='line_1_5' title="bbox 202 2120 1188 2351; baseline -0.011 -1"><span class='ocrx_word' id='word_1_11' title='bbox 202 2236 606 2351; x_wconf 76' lang='lat' dir='ltr'>NATIONAL</span> <span class='ocrx_word' id='word_1_12' title='bbox 629 2120 1188 2344; x_wconf 50' lang='lat' dir='ltr'>ENDOWffiffiffi&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1192 3360">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1192 3360">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1192 3360; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1192 3360; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
